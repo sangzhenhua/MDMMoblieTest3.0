@@ -1,0 +1,103 @@
+
+public abstract class PhoneInfo {
+	public static final String PekallURL = "http://192.168.10.21";
+	public static final String PekallEmail = "zhenhua.sang@pekall.com";
+	public static final String PekallEmailPassword = "432911";
+	public static final long Timeout = 30000;
+	//
+	public static final String PekallPassword = "123456";
+	public static final String DevicePassword = "123456";
+	public static final String ScreenLockStr = "Swipe screen to unlock";
+	public static final String SecPrivacyPolicyStr = "Privacy policy";
+	public static final String SecEsdkPackage = "com.sec.esdk.elm";
+	
+	public static final String AndroidPackage = "android";
+	public static final String AppsDesc = "Apps";
+	//public static final String AppsDesc = "应用";
+	public static final String AppsTabStr = "Apps";
+	//public static final String AppsTabStr = "\u5e94\u7528";
+	public static final String SecPackage = "com.android.launcher";
+	public static final String PekallStr = "Pekall enterprise mobile office";
+	
+	public static final String SlideDescStr = "Slide area.";
+	//public static final String SlideDescStr = "滑动区域。";
+	public static final String DeviceLock_digitInputDescStr = "Dot.";
+	public static final String DeviceLock_digitInputEnterDescStr = "Enter";
+	
+
+	public static final String SettingsPackage = "com.android.settings";
+	public static final String SettingsStr = "Settings";
+	public static final String SettingsTabConnStr = "Connections";
+	public static final String SettingsTabDeviceStr = "My device";
+	public static final String SettingsTabAccountStr = "Accounts";
+	public static final String SettingsTabMoreStr = "More";
+	public static final String SettingsWifiStr = "Wi‑Fi";
+	
+	public static final String SettingsSecurityStr = "Security";
+	public static final String SettingsDeviceAdminStr = "Device administrators";
+	public static final String SettingsAppManagerStr = "Application manager";
+	public static final String SettingsAppsStr = "Apps";
+	
+	public static final String SettingsPekallEMMPStr = "HttpClienPekall";
+	public static final String SettingsPekallDeactiveBtnStr = "Deactivate";
+	public static final String SettingsClearDataBtnStr = "Clear data";
+	public static final String SettingsDeviceAdminDeactivateBtnStr = "Deactivate";
+	public static final String SettingsDeviceAdminActiveBtnStr = "Active";
+	public static final String SettingsDeviceAdminActivateBtnStr = "Activate";
+	
+	public static final String SettingsUnlockPasswordStr = "Password";
+	public static final String SettingsConfirmYouPinStr = "Confirm your PIN";
+	public static final String SettingsUnlockPassword = "123456q";
+	public static final String SettingsUnlockContinueBtnStr = "Continue";
+	public static final String SettingsPinConfirmNextBtnStr = "Next";
+	
+	public static final String PekallPackage = "com.pekall.emdm.launcher";
+	public static final String PekallStartImgResourceId = "com.pekall.emdm.launcher:id/adv_image";
+	
+	public static final String pekallStartBtnStr = "Start";
+	public static final String PekallLoginBtnStr = "Login";
+	public static final String PekallSetDefaultDialerStr = "Set the default dialer";
+	public static final String PekallStartCloudBaseOfficeStr = "Start the cloud base office";
+	
+	public static final String PekallLoginServerEditTextHiteStr = "Server";
+	public static final String PekallLoginEmailAddressEditTextHiteStr = "Please input email address";
+	public static final String PekallPersonalModeStr = "Personal Mode";
+	public static final String PekallMsgCenterStr = "Message Center";
+	public static final String PekallMsgCenter_NoMsgStr = "No Message";
+	public static final String PekallMsgCenter_pushMsgTabStr = "push message";
+	public static final String PekallMsgCenter_pushSubjectStr = "Subject：Push test";
+	public static final String PekallMsgCenter_pushContentStr = "This is a push message!";
+	public static final String PekallDocManagerStr = "Document Manager";
+	public static final String PekallDocManager_unreadTabStr = "UnRead";
+	public static final String PekallDocManager_docNameStr = "AutomatedTestDoc.txt";
+	
+	public static final String PekallContactsStr = "EmdmContacts";
+	public static final String PekallContacts_companyTabStr = "company";
+	public static final String PekallContacts_contactNameStr = "AutomatedTestContacts";
+	public static final String PekallContacts_contactNameUpdatedStr = "AutomatedTestContactsUpdate";
+	public static final String PekallContacts_noCompanyContactsStr = "no contacts";
+	
+	public static final String PekallEmailStr = "Email";
+	public static final String PekallEmail_accountSetupStr = "Account setup";
+	public static final String PekallEmail_addressEditTextDescStr = "Email address";
+	public static final String PekallEmail_pwdEditTextDescStr = "Password";
+	
+	public static final String PekallEmail_doneBtnStr = "Done";
+	public static final String PekallEmail_emailNotConfigStr = "Your email account has not yet been pre-configed by your IT administrator.The device needs to be enrolled and an email profile needs to be pre-configed by your IT admin.";
+	public static final String PekallEmail_inboxStr = "Inbox";
+	public static final String PekallEmail_updatedEmailAccount = "2227435859@qq.com";
+	
+	public static final String PekallAndroidPWDNotificationStr = "Set password";
+	
+	public static final String CameraPackage = "com.sec.android.app.camera";
+	public static final String CameraStr = "Camera";
+	public static final String Camera_restrictStr = "Camera has been disabled because of security policies.";
+	
+	public static final String MsgboxOKBtnStr = "OK";
+	public static final String MsgboxConfirmBtnStr = "Confirm";
+	public static final String MsgboxCancelBtnStr = "Cancel";
+	public static final String MsgboxExitBtnStr = "Exit";
+	public static final String MsgboxWaitBtnStr = "Wait";
+	public static final String MsgboxWaitAlwaysStr = "Always";
+	
+}
